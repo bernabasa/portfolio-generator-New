@@ -1,0 +1,22 @@
+{
+  "name": "portfolio-generator-new",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bernabasa/portfolio-generator-New.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bernabasa/portfolio-generator-New/issues"
+  },
+  "homepage": "https://github.com/bernabasa/portfolio-generator-New#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  }
+}
